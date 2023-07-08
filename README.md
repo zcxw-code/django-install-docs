@@ -1,5 +1,5 @@
 # Гайд по установке Django на Apache2
-![Django Dash](./django_dash.jpg)
+![Django Dash](./django_dashboard.jpg)
 1. **Обновляем Ubuntu**
 ```bash
 sudo apt update -y & sudo apt upgrade -y
